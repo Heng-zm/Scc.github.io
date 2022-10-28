@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@1000&family=Oswald:wght@500;600&display=swap');
 
 * {
-    position: flex;
+    position: fixed;
     height: 360px;
     width: auto;
     margin: 0;
